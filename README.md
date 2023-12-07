@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajulabeeb
 - 👀 I’m interested in Coding, and lot more
-- 🌱 I’m currently learning Php and Javascript
+- 🌱 I’m currently learning NodeJs and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
